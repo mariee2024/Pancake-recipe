@@ -1,15 +1,24 @@
 h1{
 text-align:center;
+ color:PaleVioletRed;
+ font-family:Brush Script MT,cursive;
+ font-size:500%;"
 }
- background-color:MidnightBlue;color:Salmon;font-family:Brush Script MT,cursive;font-size:300%;
-}
+ p {
+  text-align: right;
+ }
+
+
 h2{
  text-align:center;
 color:MidnightBlue;font-family:Georgia,serif;font-size:200%;
 }
-body{background-color:LightYellow;
- }
+body {
+background-image: url("https://img.freepik.com/premium-photo/high-angle-view-christmas-decoration-yellow-background_1048944-15119078.jpg");
+}
+
 p{
 text-align:center;
 font-family:Garamond, serif;
 font-size:300%
+}
