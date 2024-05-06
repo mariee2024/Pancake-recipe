@@ -5,11 +5,12 @@ h1{
  font-size:500px;
 }
 
-p{
+p{ ul{
 color:PaleVioletRed;
 text-align:right;
 font-family:Courier New, monospace;
 font-size:400px;
+ul}
 }
 
 body {
