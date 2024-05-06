@@ -12,6 +12,11 @@ font-family:Courier New, monospace;
 font-size:400px;
 }
 
+html { 
+  background: url(https://img.freepik.com/photos-gratuite/delicieux-concept-patisserie-espace-copie_23-2148648840.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+
 
 body {
 background-image: url("https://wallpapers.com/images/hd/bakery-ingredients-flat-lay-bvoyzif0cxt6437c.jpg");
