@@ -4,12 +4,42 @@ text-align: center;
 text-transform: uppercase;
 font-family: verdana;
 font-size: 300%;
-border: 2px dotted;
+font-style: italic;
+border: 2px;
+border-style: double;
 border-color: solid black;
 background: url(https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg);
-background-repeat: no-repeat;
-background-size: auto;
+background-repeat:repeat;
+background-size: 50px 200px;
 }
+
+button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 19px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+
+
 
 ul{
 color: PaleVioletRed;
@@ -19,6 +49,6 @@ list-style-position: inside;
 }
 
 body {
-  background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
-background-repeat: no-repeat;
+background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
+background-repeat:auto;
 }
