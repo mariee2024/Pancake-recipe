@@ -9,7 +9,6 @@ background-color: AntiqueWhite;
 }
 
 button {
- text-align: center;
   background-color:PaleVioletRed ;
   border: none;
   color: AntiqueWhite;
@@ -19,10 +18,6 @@ button {
   font-size: 18px;
   margin: 4px 2px;
   cursor: pointer;
-}
-
-img {
-float: left;
 }
 
 ul {
