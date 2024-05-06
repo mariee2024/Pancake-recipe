@@ -4,14 +4,15 @@ text-align: center;
 text-transform: uppercase;
 font-family: verdana;
 font-size: 300%;
-border-block-color: PaleVioletRed;
-border-block-style: dotted;
+border-color: PaleVioletRed;
+border-style: 3px dotted;
 }
 
 ul{
 color: PaleVioletRed;
-text-align: right corner;
+text-align: center;
 font-size: 150%;
+list-style-position: inside;
 }
 
 body {
