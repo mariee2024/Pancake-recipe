@@ -1,15 +1,15 @@
 h1{
-text-align:center;
  color:PaleVioletRed;
- font-family:Brush Script MT,cursive;
- font-size:500%;"
+ text-align:center;
+ font-family:"Brush Script MT",cursive;
+ font-size:500px;
 }
 
 p{
-text-align:right;
 color:PaleVioletRed;
+text-align:right;
 font-family:Courier New, monospace;
-font-size:400%
+font-size:400px;
 }
 
 body {
