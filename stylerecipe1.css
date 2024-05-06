@@ -7,15 +7,14 @@ border-block-color: PaleVioletRed;
 border-block-style: dotted;
 }
 
-li{
+ul{
 color: PaleVioletRed;
 text-align: right;
 font-size: 170%;
 }
 
 body {
-  background-image: url("https://img.freepik.com/free-photo/ingredients-sweet-apple-cupcake-muffins-sugar-butter-flour-honey-cinnamon-eggs-stone-light-background_127032-2718.jpg");
+  background-image: url("https://c8.alamy.com/comp/KM7N31/baking-background-a-variety-of-ingredients-for-baking-on-rustic-background-KM7N31.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
- background-size: 500px 200px;
+ background-size: 600px 400px;
 }
