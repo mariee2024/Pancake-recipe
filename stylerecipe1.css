@@ -22,6 +22,10 @@ button {
   cursor: pointer;
 }
 
+img {
+float: left;
+}
+
 ul {
 color: MediumVioletRed;
 text-align: center;
@@ -30,15 +34,7 @@ font-size: 150%;
 list-style-position: inside;
 }
 
-img {
-float: right;
-border: 1px solid #ddd;
-border-radius: 4px;
-padding: 5px;
-width: 150px;
-}
-
 body {
-  background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg")300px 300px;
+  background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
 }  
 
