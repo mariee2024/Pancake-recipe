@@ -9,6 +9,7 @@ background-color: AntiqueWhite;
 }
 
 button {
+ text-align: center;
   background-color:PaleVioletRed ;
   border: none;
   color: AntiqueWhite;
