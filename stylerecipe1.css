@@ -37,6 +37,12 @@ font-size: 170%;
 list-style-position: inside;
 }
 
+p2{
+color: MediumVioletRed;
+text-align: right;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 170%;
+
 body{
 background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg")
 background-image: no repeat;
