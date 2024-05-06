@@ -3,12 +3,14 @@ color: PaleVioletRed;
 text-align: center;
 font-family: verdana;
 font-size: 300%;
+border-block-color: PaleVioletRed;
+border-block-style: dotted;
 }
 
-p{ ul{
+li{
 color: PaleVioletRed;
 text-align: right;
-font-size: 170%;}
+font-size: 170%;
 }
 
 body {
