@@ -8,10 +8,6 @@ border-radius: 5px;
 background-color: AntiqueWhite;
 }
 
-body {
-  background-image: url("https://media.istockphoto.com/id/1257839517/vector/hand-drawn-seamless-pattern-of-bakery-element-doodle-style-vector-illustration.jpg?s=612x612&w=0&k=20&c=Yd1zJk_QQ6ZohN5gR6E_IjJrV_i0mZxr6Rz4kHIoZr8=");
-}  
-
 button {
   background-color:PaleVioletRed ;
   border: none;
@@ -29,6 +25,11 @@ ul {
 color: MediumVioletRed;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 160%;
+font-size: 150%;
 list-style-position: inside;
 }
+
+body {
+  background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
+}  
+
