@@ -26,11 +26,10 @@ ul {
 color: MediumVioletRed;
 text-align: left;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 170%;
+font-size: 180%;
 list-style-position: inside;
 }
   
 body{
-background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg")
-background-image:repeat;
+background-image: url("https://media.istockphoto.com/id/1257839517/vector/hand-drawn-seamless-pattern-of-bakery-element-doodle-style-vector-illustration.jpg?s=612x612&w=0&k=20&c=Yd1zJk_QQ6ZohN5gR6E_IjJrV_i0mZxr6Rz4kHIoZr8");
 }
