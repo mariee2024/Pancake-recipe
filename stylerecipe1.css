@@ -14,4 +14,5 @@ font-size: 170%;
 body {
   background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
   background-repeat: no-repeat;
+  background-size: auto;
 }
