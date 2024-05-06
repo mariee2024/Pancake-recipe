@@ -5,14 +5,14 @@ font-family: verdana;
 font-size: 300%;
 }
 
-ul{
+p{ ul{
 color: PaleVioletRed;
 text-align: right;
-font-size: 170%;
+font-size: 170%;}
 }
 
 body {
-  background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
+  background-image: url("https://img.freepik.com/free-photo/ingredients-sweet-apple-cupcake-muffins-sugar-butter-flour-honey-cinnamon-eggs-stone-light-background_127032-2718.jpg");
   background-repeat: no-repeat;
   background-size: auto;
 }
