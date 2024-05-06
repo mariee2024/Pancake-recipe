@@ -31,13 +31,16 @@ transform: translateY(4px);
 
 ul{
 color: MediumVioletRed;
-text-align: center;
+text-align: left;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 200%;
+font-size: 170%;
 list-style-position: inside;
 }
-
-body {
-background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg");
-background-repeat:auto;
+mask1 {
+  max-width: 600px;
+  height: 350px;
+  overflow-y: scroll;
+  background: url("https://cdn2.vectorstock.com/i/1000x1000/36/36/baking-background-vector-9253636.jpg") no-repeat;
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient (black, transparent);
 }
