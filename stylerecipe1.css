@@ -3,7 +3,7 @@ color: PaleVioletRed;
 text-align: center;
 font-family: Brush Script MT,cursive;
 font-size: 300%;
-border: 2px solid PaleVioletRed ;
+border: 50% solid PaleVioletRed ;
 border-radius: 5px;
 background-color: AntiqueWhite;
 }
@@ -22,8 +22,6 @@ button {
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
-
-.button:hover {background-color: MediumVioletRed}
 
 .button:active {
 background-color:MediumVioletRed;
