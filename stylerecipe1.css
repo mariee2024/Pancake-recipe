@@ -1,6 +1,7 @@
 h1{
 color: PaleVioletRed;
 text-align: center;
+text-transform: uppercase;
 font-family: verdana;
 font-size: 300%;
 border-block-color: PaleVioletRed;
@@ -9,12 +10,12 @@ border-block-style: dotted;
 
 ul{
 color: PaleVioletRed;
-text-align: right;
-font-size: 170%;
+text-align: right corner;
+font-size: 150%;
 }
 
 body {
   background-image: url("https://c8.alamy.com/comp/KM7N31/baking-background-a-variety-of-ingredients-for-baking-on-rustic-background-KM7N31.jpg");
   background-repeat: no-repeat;
- background-size: 600px 400px;
+ background-size:auto;
 }
