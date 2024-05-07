@@ -31,6 +31,9 @@ list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74
 
 img {
   border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+
 }
 
 body {
