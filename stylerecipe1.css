@@ -28,6 +28,10 @@ font-size: 150%;
 list-style-position: inside;
 }
 
+img {
+  border-radius: 8px;
+}
+
 body {
   background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
 }  
