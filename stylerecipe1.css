@@ -38,5 +38,6 @@ img {
 
 body {
   background-image: url("https://c8.alamy.com/compfr/t7x7bm/modele-logique-de-desserts-gateaux-de-bonbons-des-beignets-des-bonbons-et-d-autres-collations-dans-l-arriere-plan-sans-fin-style-doodle-t7x7bm.jpg")height: 100%;
+background-repeat: repeat-x;
 }  
 
