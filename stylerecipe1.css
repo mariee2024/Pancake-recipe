@@ -20,7 +20,7 @@ button {
 
 ul {
 color: Black;
-text-align: left;
+text-align: center;
 font-family:Trebuchet MS,sans-serif;
 font-size: 150%;
 list-style-position: inside;
@@ -33,6 +33,6 @@ height: auto;
 }
 
 body {
-background-color: FloralWhite;
+background-color: LightPink;
 }  
 
