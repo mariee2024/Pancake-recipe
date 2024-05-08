@@ -18,12 +18,11 @@ button {
   font-size: 16px;
 }
 
-ul {
-color: Black;
-text-align: center;
-font-family:Trebuchet MS,sans-serif;
-font-size: 150%;
-list-style-position: inside;
+p {
+  color: Black;
+  text-align: center;
+  font-family: Times New Roman, Times, serif;
+  font-size: 150%;
 }
 
 img {
