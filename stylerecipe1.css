@@ -8,16 +8,19 @@ border-radius: 5px;
 background-color: AntiqueWhite;
 }
 
-button {
-  background-color: white;
-  color: black;
-  border: 2px solid #e7e7e7;
+.button {
+  background-color: #DB7093;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+text-align: left corner;
 }
-
-button:hover {
-background-color: #e7e7e7;
-}
-
 ul {
 color: MediumVioletRed;
 background-color:AntiqueWhite (255, 99, 71, 0.5);
