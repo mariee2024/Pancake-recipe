@@ -25,6 +25,10 @@ p {
   text-align: justify;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
+  width: 300px;
+  border: 1px solid green;
+  padding: 30px;
+  margin: 15px;
 }
 
 img {
