@@ -20,9 +20,13 @@ button {
 
 p {
   color: Black;
-  text-align: center;
+  text-align: justify;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
+  border: 1px solid black;
+  padding: 50px;
+  width: 300px;
+  height: 300px;
 }
 
 img {
