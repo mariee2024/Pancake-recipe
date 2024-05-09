@@ -20,7 +20,7 @@ button {
 
 p {
   color: Black;
-  text-align: right;
+  text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
 }
@@ -29,7 +29,6 @@ img {
 border-radius: 8px;
 max-width: 100%;
 height: auto;
-  position: absolute;
   left: 5px;
   top: 5px;
   z-index: -1;
