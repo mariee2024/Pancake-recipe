@@ -32,6 +32,9 @@ height: auto;
 }
 
 body {
-background-color: LightPink;
+  background-image: url("https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegan-pancakes.jpg")
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 100px;
 }  
 
