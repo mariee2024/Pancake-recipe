@@ -26,10 +26,10 @@ p {
   font-family: Times New Roman, Times, serif;
   font-size: 160%;
   width: 350px;
-  border: 1px solid black;
+  border: 1px FloralWhite;
   padding: 20px;
   margin: 15px;
-  background-color: LightPink;
+  background-color: MistyRose;
 }
 
 img {
