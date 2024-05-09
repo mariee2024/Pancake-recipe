@@ -22,7 +22,6 @@ button {
 
 p {
   color: Black;
- backgroud-color: rgba(255, 34, 11, 0.2)
   text-align: justify;
   font-family: Times New Roman, Times, serif;
   font-size: 160%;
@@ -30,6 +29,7 @@ p {
   border: 1px solid black;
   padding: 20px;
   margin: 15px;
+  background-color: LightPink;
 }
 
 img {
