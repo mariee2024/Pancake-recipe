@@ -22,12 +22,12 @@ button {
 
 p {
   color: Black;
-  text-align: justify;
+  text-align: center-justify;
   font-family: Times New Roman, Times, serif;
-  font-size: 150%;
-  width: 300px;
-  border: 1px solid green;
-  padding: 30px;
+  font-size: 160%;
+  width: 200px;
+  border: 2px solid black;
+  padding: 20px;
   margin: 15px;
 }
 
