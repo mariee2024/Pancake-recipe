@@ -29,6 +29,10 @@ img {
 border-radius: 8px;
 max-width: 100%;
 height: auto;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  z-index: -1;
 }
 
 body {
