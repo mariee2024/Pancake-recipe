@@ -23,7 +23,7 @@ button {
 p {
   color: Black;
  backgroud-color: rgba(255, 34, 11, 0.2)
-  text-align: center-justify;
+  text-align:center-justify;
   font-family: Times New Roman, Times, serif;
   font-size: 160%;
   width: 200px;
