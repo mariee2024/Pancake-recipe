@@ -20,7 +20,7 @@ button {
 
 p {
   color: Black;
-  text-align: center;
+  text-align: right top;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
 }
@@ -38,7 +38,5 @@ height: auto;
 body {
   background-image: url("https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegan-pancakes.jpg")
   background-repeat: no-repeat;
-  background-position: right top;
-  margin-right: 100px;
 }  
 
