@@ -14,10 +14,11 @@ ul {
   text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 400px;
+  width: 500px;
   border: 2px FloralWhite;
   padding: 25px;
-  margin-right: 100px;
+  margin-right: 150px;
+  margin-left: 400px;
   background-color: MistyRose;
 list-style-position: inside;
 }
