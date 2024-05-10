@@ -28,13 +28,13 @@ background-color: AntiqueWhite;
 
 ul {
   color: Black;
-  text-align: justify;
+  text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 300px;
+  width: 400px;
   border: 3px FloralWhite;
   padding: 20px;
-  margin: 25px;
+  margin: 20px;
   background-color: MistyRose;
 }
 
