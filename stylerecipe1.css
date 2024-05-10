@@ -28,18 +28,18 @@ background-color: AntiqueWhite;
 
 ul {
   color: Black;
-  text-align: right;
+  text-align: justify;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 260px;
-  border: 1px FloralWhite;
+  width: 300px;
+  border: 3px FloralWhite;
   padding: 20px;
-  margin: 15px;
+  margin: 25px;
   background-color: MistyRose;
 }
 
 img {
-border-radius: 8px;
+border-radius: 9px;
 }
 
 body {
