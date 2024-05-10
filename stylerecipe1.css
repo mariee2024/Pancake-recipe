@@ -12,11 +12,11 @@ background-color: AntiqueWhite;
   background-color:AntiqueWhite;
   border: none;
   color: PaleVioletRed;
-  padding: 30px 38px;
+  padding: 20px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 25px;
+  font-size: 20px;
   cursor: pointer;
   float: left;
 }
@@ -28,10 +28,10 @@ background-color: AntiqueWhite;
 
 span {
   color: Black;
-  text-align: justify;
+  text-align: left;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 300px;
+  width: 260px;
   border: 1px FloralWhite;
   padding: 20px;
   margin: 15px;
@@ -40,8 +40,6 @@ span {
 
 img {
 border-radius: 8px;
-height: auto;
-margin: 20px;
 }
 
 body {
