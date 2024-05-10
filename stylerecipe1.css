@@ -28,10 +28,10 @@ btn-group: hover {
 
 span {
   color: Black;
-  text-align: justify;
+  text-align: left;
   font-family: Times New Roman, Times, serif;
-  font-size: 160%;
-  width: 350px;
+  font-size: 150%;
+  width: 300px;
   border: 1px FloralWhite;
   padding: 20px;
   margin: 15px;
