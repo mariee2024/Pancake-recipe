@@ -8,28 +8,15 @@ border-radius: 5px;
 background-color: AntiqueWhite;
 }
 
-button {
-  background-color: #DB7093;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-  border: 1px PaleVioletRed;
-  margin: 25px 50px;
-border-radius: 8px;
-}
+
 .btn-group .button {
-  background-color: #04AA6D; /* Green */
+  background-color:  #DB7093;
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  cursor: pointer;
   float: left;
 }
 
