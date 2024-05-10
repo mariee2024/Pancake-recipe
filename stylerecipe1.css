@@ -8,7 +8,7 @@ border-radius: 5px;
 background-color: AntiqueWhite;
 }
 
-.btn-group .button {
+btn-group .button {
   background-color:AntiqueWhite;
   border: none;
   color: PaleVioletRed;
@@ -21,7 +21,7 @@ background-color: AntiqueWhite;
   float: left;
 }
 
-.btn-group .button:hover {
+btn-group .button: hover {
   background-color: PaleVioletRed;
   color: AntiqueWhite;
 }
