@@ -15,15 +15,16 @@ ul {
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
   width: 400px;
-  border: 3px FloralWhite;
-  padding: 20px;
-  margin: 20px;
+  border: 2px FloralWhite;
+  padding: 25px;
+  margin-right: 100px;
   background-color: MistyRose;
 list-style-position: inside;
 }
 
 img {
 border-radius: 9px;
+margin: 30px;
 }
 
 body {
