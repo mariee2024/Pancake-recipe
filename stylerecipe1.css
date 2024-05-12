@@ -8,7 +8,7 @@ background-color: AntiqueWhite;
 }
 
 
-.button {
+button {
   background-color: DarkGreen; /* Green */
   border: none;
   color: white;
@@ -27,7 +27,7 @@ ul {
   text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 400px;
+  width: 450px;
   border: 4px FloralWhite;
   padding: 25px;
   margin-right: 80px;
