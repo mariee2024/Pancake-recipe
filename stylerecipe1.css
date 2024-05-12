@@ -26,11 +26,10 @@ ul {
   color: Black;
   text-align: center;
   font-family: Times New Roman, Times, serif;
-  font-size: 150%;
+  font-size: 165%;
   width: 450px;
-  border: 4px FloralWhite;
-  padding: 25px;
-  margin-right: 80px;
+  border: 3px FloralWhite;
+  padding: 30px;
   background-color: MistyRose;
 list-style-position: inside;
 }
