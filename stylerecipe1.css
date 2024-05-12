@@ -6,6 +6,12 @@ font-size: 320%;
 border-radius: 7px;
 background-color: AntiqueWhite;
 }
+button {
+  background-color: PaleVioletRed;
+text-align: center;
+  font-size: 150px;
+  border-radius: 7px;
+}
 
 ul {
   color: Black;
