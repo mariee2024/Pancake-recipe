@@ -7,21 +7,6 @@ border-radius: 7px;
 background-color: AntiqueWhite;
 }
 
-
-button {
-  background-color: DarkGreen; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  margin: 5px 5px;
-  cursor: pointer;
-}
-
-
 ul {
   color: Black;
   text-align: center;
