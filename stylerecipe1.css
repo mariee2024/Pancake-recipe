@@ -9,7 +9,7 @@ background-color: AntiqueWhite;
 }
 
 .button {
-  background-color: DarkGreen; 
+  background-color: DarkGreen; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -21,10 +21,10 @@ background-color: AntiqueWhite;
   cursor: pointer;
 }
 
-.button2 {background-color:DeepSkyBlue ;} 
-.button3 {background-color: IndianRed ;}
-.button4 {background-color: LightGrey; color: black;} 
-.button5 {background-color: Black;} 
+.button2 {background-color:DeepSkyBlue ;} /* Blue */
+.button3 {background-color: IndianRed ;}/* Red */ 
+.button4 {background-color: LightGrey; color: black;} /* Gray */
+.button5 {background-color: Black;} /* Black */
 
 ul {
   color: Black;
