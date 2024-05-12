@@ -29,6 +29,7 @@ ul {
   font-size: 165%;
   width: 450px;
   border: 3px FloralWhite;
+  border-radius:8px;
   padding: 30px;
   background-color: MistyRose;
 list-style-position: inside;
