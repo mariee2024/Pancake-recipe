@@ -7,10 +7,13 @@ border-radius: 7px;
 background-color: AntiqueWhite;
 }
 button {
+  color: AntiqueWhite;
   background-color: PaleVioletRed;
 text-align: center;
   font-size: 25px;
+  border: none;
   border-radius: 7px;
+   margin: 5px 3px;
 }
 
 ul {
