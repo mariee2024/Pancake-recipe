@@ -9,7 +9,7 @@ background-color: AntiqueWhite;
 button {
   background-color: PaleVioletRed;
 text-align: center;
-  font-size: 150px;
+  font-size: 25px;
   border-radius: 7px;
 }
 
@@ -17,7 +17,7 @@ ul {
   color: Black;
   text-align: center;
   font-family: Times New Roman, Times, serif;
-  font-size: 165%;
+  font-size: 160%;
   width: 450px;
   margin-right: 100px;
   border: 3px FloralWhite;
