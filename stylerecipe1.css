@@ -37,18 +37,18 @@ ul {
   text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 150%;
-  width: 330px;
+  width: 400px;
   border: 4px FloralWhite;
   padding: 25px;
-  margin-right: 70px;
-  margin-left: 185px;
+  margin-right: 50px;
+  margin-left: 160px;
   background-color: MistyRose;
 list-style-position: inside;
 }
 
 img {
 border-radius: 8px;
-margin: 50px;
+margin-bottom: 50px;
 }
 
 body {
