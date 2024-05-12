@@ -7,12 +7,6 @@ border-radius: 7px;
 background-color: AntiqueWhite;
 }
 
-#borderimg { 
-  border: 20px solid transparent;
-  padding: 10px;
- border-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/155/922/small_2x/free-sweets-and-cookies-icons-vector.jpg) 30 round;
-}
-
 
 .button {
   background-color: DarkGreen; /* Green */
