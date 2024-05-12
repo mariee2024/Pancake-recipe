@@ -10,10 +10,10 @@ button {
   color: AntiqueWhite;
   background-color: PaleVioletRed;
 text-align: center;
-  font-size: 25px;
+  font-size: 22px;
   border: none;
   border-radius: 7px;
-   margin: 5px 3px;
+   margin: 7px 5px;
 }
 
 ul {
@@ -21,8 +21,8 @@ ul {
   text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 160%;
-  width: 450px;
-  margin-right: 100px;
+  width: 470px;
+  margin-right: 150px;
   border: 3px FloralWhite;
   border-radius: 9px;
   padding: 30px;
