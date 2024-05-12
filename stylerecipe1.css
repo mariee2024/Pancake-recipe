@@ -27,10 +27,6 @@ background-color: AntiqueWhite;
   cursor: pointer;
 }
 
-.button2 {background-color:DeepSkyBlue ;} /* Blue */
-.button3 {background-color: IndianRed ;}/* Red */ 
-.button4 {background-color: LightGrey; color: black;} /* Gray */
-.button5 {background-color: Black;} /* Black */
 
 ul {
   color: Black;
@@ -49,6 +45,7 @@ list-style-position: inside;
 img {
 border-radius: 8px;
 margin-bottom: 50px;
+margin-left: 50px;
 }
 
 body {
