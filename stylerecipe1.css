@@ -3,7 +3,7 @@ color: PaleVioletRed;
 text-align: center;
 font-family: Brush Script MT,cursive;
 font-size: 320%;
-border: 5px solid PaleVioletRed ;
+border: 2px solid PaleVioletRed ;
 border-radius: 7px;
 background-color: AntiqueWhite;
 }
@@ -42,7 +42,6 @@ list-style-position: inside;
 
 img {
 border-radius: 8px;
-border: 1px solid black;
 }
 
 body {
